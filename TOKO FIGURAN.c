@@ -6,12 +6,6 @@
 #include <string.h>
 #include <time.h>
 
-/*
-TR INI DIRANCANG OLEH:
--OKTOMIGO 672021072
--BILEAM MANGALLA 672021056
--ERNEST GLORIUS DEO 672021074
-*/
 
 struct node{
     char nama[50], jenis[50];
